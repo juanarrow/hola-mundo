@@ -28,4 +28,6 @@ class HelloWorld{
 }
 
 var greet = new HelloWorld();
+greet.name = "Juan A.";
+greet.surname = "García Gómez";
 greet.sayHello();
