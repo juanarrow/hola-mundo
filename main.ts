@@ -51,5 +51,6 @@ class HelloWorld implements Greet{
 var greet = new HelloWorld();
 greet.name = "Juan A.";
 greet.surname = "García Gómez";
-greet.message = "Hello world in special to you"
+greet.message = "Hello world in special to you";
+greet.nick = "juanarrow"
 greet.sayHello();
